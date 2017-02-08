@@ -1,0 +1,2 @@
+module PhotoBoothsHelper
+end

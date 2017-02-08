@@ -1,0 +1,2 @@
+class PhotoBooth < ApplicationRecord
+end
