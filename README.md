@@ -28,4 +28,7 @@ Please build a rails app named "epique" which will be this interface. This will 
 Steps:
 1. Setup rails project with latest version 5.0.1
 2. Create models (with generators)
-3. ...
+3. Identify columns and add them to the models (using migrations) / read up on database migrations
+4. Add validations to the models (read up on validations)
+5. Add tests for models (esp. validations)
+6. ...
